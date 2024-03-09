@@ -8,7 +8,7 @@
 
 I'm interested in **Linux Systems and DevOps technologies**.
 
-Currently I'm learning different DevOps tools and working @sahibinden as Junior DevOps Engineer.
+Currently I'm learning different DevOps tools and working @akbank as site reliability engineer.
 
 ---
 
