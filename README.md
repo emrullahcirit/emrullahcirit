@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=emrullahcirit&color=blue)
 
-**I'm 4th grade computer engineering student in Pamukkale University**.
+**I graduated from Pamukkale University, computer engineering**.
 
 I'm interested in **Linux Systems and DevOps technologies**.
 
